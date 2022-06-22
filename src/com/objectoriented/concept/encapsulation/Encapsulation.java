@@ -1,4 +1,4 @@
-package com.objectoriented.concept.abstraction;
+package com.objectoriented.concept.encapsulation;
 
 //---------------------------------------
 //--- STEP 00 - WHAT IS ABSTRACTION & ENCAPSULATION?
@@ -27,7 +27,6 @@ package com.objectoriented.concept.abstraction;
 //---------------------------------------
 
 /**
- * https://github.com/RameshMF/object-oriented-design
  *
  * Encapsulation goals of Person class
  *
@@ -71,7 +70,7 @@ class Person {
  * @author tirthalp
  *
  */
-public class Abstraction {
+public class Encapsulation {
 
     public static void main(String[] args) {
 
